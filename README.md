@@ -1,4 +1,4 @@
 # hello-world
 My first repository, as the name should suggest! 
 
-Adding some changes, for the sake of learning!
+I am just following the tutorial, i swear i am not crazy! For now.
